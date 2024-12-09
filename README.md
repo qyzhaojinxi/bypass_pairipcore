@@ -22,6 +22,8 @@ bypass google play protect with pairipcore，绕过play保护，修复apk，防�
 * remove ads
 * bypass Signature Verification
 * unlimited money for offline unity game.
+* Android reverse engineering
+* Android app api packet capture and analysis
 * Other Python scripting tools to fullfill you need.
 
 ### How to contact ？
