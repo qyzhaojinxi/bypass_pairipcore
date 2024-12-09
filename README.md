@@ -16,7 +16,7 @@ bypass google play protect with pairipcore，绕过play保护，修复apk，防�
 * 单个apk处理300人民币左右，如果数量较多可以谈优惠价格
 * The processing price of a single apk is about 100 dollars. If the quantity is large, we can negotiate a preferential price.
 
-### other feture
+### other features desc
 
 * xapk or apks merge to apk
 * remove ads
