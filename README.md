@@ -19,4 +19,4 @@ bypass google play protect with pairipcore，绕过play保护，修复apk，防�
 ### How to contact ？
 
 * Email:qyzhaojinxi2012@gmail.com
-* Telegram:@ericzhao2024
+* Telegram:[@ericzhao2024](https://t.me/ericzhao2024)
