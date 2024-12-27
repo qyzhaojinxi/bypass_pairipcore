@@ -1,10 +1,10 @@
 # bypass pairipcore
 bypass pairip, bypass google play protect with pairipcore，绕过play保护，修复apk，防止闪退
 
-### Update:2024-10-20
+### Update:2024-12-27
 
-* Support to remove latest pairip in app. Temporarily not support unity games.
-* 支持移除app内最新带pairip的play保护，暂时不支持unity游戏。
+* Support to remove latest pairip in app and some offline games. Temporarily not support online unity games. 
+* 支持移除app内最新带pairip的play保护，暂时不支持联网unity游戏。
 
 ### Main Feature
 
