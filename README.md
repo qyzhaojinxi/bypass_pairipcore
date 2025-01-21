@@ -31,3 +31,6 @@ bypass pairipcore, bypass google play protect with pairipcore，绕过play保护
 
 * Email:qyzhaojinxi2012@gmail.com
 * Telegram:[@ericzhao2024](https://t.me/ericzhao2024)
+
+### Notice
+* I don't bypass bank app !
