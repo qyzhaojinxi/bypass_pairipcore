@@ -21,7 +21,7 @@ bypass pairipcore, bypass google play protect with pairipcore，绕过play保护
 * Android reverse engineering
 * Android app api packet capture and analysis
 * Other Python scripting tools to fullfill you need.
-* remove google protect dialog
+* remove google play protect harmful dialog
 * 移除谷歌保护风险提示弹窗
 
 ### How to use ？
