@@ -23,6 +23,8 @@ bypass pairipcore, bypass google play protect with pairipcore，绕过play保护
 * Other Python scripting tools to fullfill you need.
 * remove google play protect harmful dialog
 * 移除谷歌保护风险提示弹窗
+* game resource extractor,support unity/ue/cocos/rpgmaker game engine. like image/spine/model(fbx/obj/gltf2.0/glb)/live2d/audio/video.
+* 游戏资源提取，游戏解包，游戏拆包，支持unity，ue（虚幻），cocos，rpgmaker等游戏引擎；提取得到图片角色立绘，动画，模型，音频，视频等
 
 ### How to use ？
 
