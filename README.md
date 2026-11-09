@@ -1,7 +1,7 @@
 # bypass pairipcore
-bypass pairipcore, bypass google play protect with pairipcore，绕过play保护，破解谷歌加固，修复apk，防止闪退
+bypass pairipcore, bypass google play protect with pairipcore，绕过play保护，破解谷歌加固，修复apk，防止闪退，游戏资源提取，游戏模型提取，游戏资源解包
 
-### Update:2026-01-02
+### Update:2026-11-09
 
 * Support to remove latest pairip in app and some offline games. Temporarily not support online unity games. 
 * 支持移除app内最新带pairip的play保护，暂时不支持联网unity游戏。
@@ -23,7 +23,7 @@ bypass pairipcore, bypass google play protect with pairipcore，绕过play保护
 * Other Python scripting tools to fullfill you need.
 * remove google play protect harmful dialog
 * 移除谷歌保护风险提示弹窗
-* game resource extractor,support unity/ue/cocos/rpgmaker game engine. like image/spine/model(fbx/obj/gltf2.0/glb)/live2d/audio/video.
+* game resource extractor,game model ripper,support unity/ue/cocos/rpgmaker game engine. like image/spine/model(fbx/obj/gltf2.0/glb)/live2d/audio/video.
 * 游戏资源提取，游戏解包，游戏拆包，支持unity，ue（虚幻），cocos，rpgmaker等游戏引擎；提取得到图片角色立绘，动画，模型，音频，视频等
 
 ### How to use ？
